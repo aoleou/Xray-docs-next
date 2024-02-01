@@ -1,1 +1,0 @@
-const e={key:"v-792e28f8",path:"/config/features/xtls.html",title:"XTLS 深度剖析",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],filePathRelative:"config/features/xtls.md",git:{updatedTime:1616738467e3,contributors:[{name:"JimhHan",email:"50871214+JimhHan@users.noreply.github.com",commits:2}]}};export{e as data};

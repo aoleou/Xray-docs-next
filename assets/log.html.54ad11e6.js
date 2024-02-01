@@ -1,1 +1,0 @@
-const e={key:"v-1d860c29",path:"/config/log.html",title:"日志配置",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"LogObject",slug:"logobject",children:[]}],filePathRelative:"config/log.md",git:{updatedTime:1616738467e3,contributors:[{name:"JimhHan",email:"50871214+JimhHan@users.noreply.github.com",commits:5}]}};export{e as data};

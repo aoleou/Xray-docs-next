@@ -1,1 +1,0 @@
-const e={key:"v-3f09dcbc",path:"/document/level-1/",title:"入门技巧",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],filePathRelative:"document/level-1/README.md",git:{updatedTime:1616738467e3,contributors:[{name:"JimhHan",email:"50871214+JimhHan@users.noreply.github.com",commits:2}]}};export{e as data};
